@@ -1,0 +1,12 @@
+{
+  "name": "agentify-local",
+  "owner": { "name": "platform team" },
+  "description": "Local marketplace with the agentify plugin.",
+  "plugins": [
+    {
+      "name": "agentify",
+      "source": "./plugins/agentify",
+      "description": "Agentifies a repository: generates AGENTS.md and docs/agent/ via multi-agent passes."
+    }
+  ]
+}

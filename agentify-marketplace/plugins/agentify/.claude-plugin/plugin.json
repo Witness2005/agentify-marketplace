@@ -1,0 +1,7 @@
+{
+  "name": "agentify",
+  "version": "1.11.0",
+  "description": "Agentifies a repository: generates AGENTS.md and docs/agent/ (overview, architecture, contracts, runbook, traps, rules, security-rules) via specialized multi-agent passes.",
+  "author": { "name": "platform team" },
+  "keywords": ["agents.md", "documentation", "onboarding", "context-engineering"]
+}
